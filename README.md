@@ -4,6 +4,7 @@
 
 **Gameplay Ability System**과 **Lyra Sample Project**를 기반으로 공부하고 있습니다.
 
+Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 ## **Education**
 
 **경희대학교 (2019.03 ~ 2026.02 졸업예정)**
