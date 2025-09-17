@@ -13,21 +13,22 @@
 
 ### Mathematics
 
-- 해석학(Analysis), 수치해석(Numerical Analysis)
-- 미분기하학(Differential Geometry), 미분방정식(Differential Equations), 미분적분학(Calculus)
-- 벡터해석(Vector Calculus),
-- 선형대수학(Linear Algebra)
-- 정수론(Number Theory), 조합및그래프이론(Combinatorics and Graph Theory)
-###  **주요 기술**
+- **해석학 1, 2 (Analysis), 수치해석 1 (Numerical Analysis), 복소해석학 1 (Complex Analysis)**
+- **미분기하학 1 (Differential Geometry), 미분방정식 1 (Differential Equations), 미분적분학 1, 2 (Calculus)**
+- **벡터해석 (Vector Calculus)**
+- **선형대수학 1, 2 (Linear Algebra)**
+- **정수론 (Number Theory), 조합및그래프이론 (Combinatorics and Graph Theory)**
+###  **주요 사용 기술**
 - **C++**
 - **Unreal Engine 5**
 
 ### **사용 경험 있음**
-- **AWS Gamelift, Cognito**
 - **Python**
 - **C#**
 - **Unity Engine**
 - **DirectX 11**
+- **AWS Gamelift, Cognito**
+  
 ### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seo-BJ&show_icons=true&theme=radical)
 
