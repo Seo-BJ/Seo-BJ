@@ -1,6 +1,6 @@
 ## **About Me**
 
-현재 **언리얼 엔진5**와 **멀티플레이 게임 개발**에 관심이 많습니다. 
+ **언리얼 엔진5**와 **멀티플레이 게임 개발**에 관심이 많습니다. 
 
 **Gameplay Ability System**과 **Lyra Sample Project**를 기반으로 공부하고 있습니다.
 
@@ -9,7 +9,7 @@ Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 
 **경희대학교 (2019.03 ~ 2026.02 졸업예정)**
 - 수학과 (본전공)
-- 소프트웨어융합학과 (복수전공)
+- 소프트웨어융합학과 게임콘탠츠 트랙 (복수전공)
 ## **Skills**
 
 ### Mathematics
