@@ -33,8 +33,7 @@ Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 ### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seo-BJ&show_icons=true&theme=radical)
 
-### 요즘 하는 것**
-- C++ 공부
-- 자료구조, 알고리즘 공부 및 코딩 테스트 준비
+### 요즘 하는 것
+- C++, CS, 자료구조, 알고리즘 공부 및 코딩 테스트 준비
 - Project Cygnus
 - 졸업 프로젝트 및 논문(보고서 작성)
