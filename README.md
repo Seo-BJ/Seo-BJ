@@ -27,7 +27,7 @@ Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 - **Python**
 - **C#**
 - **Unity Engine**
-- **DirectX 11**
+- **DirectX 11, Win API**
 - **AWS Gamelift, Cognito**
   
 ## 📊 **GitHub Stats**
