@@ -36,5 +36,5 @@ Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 
 ## 요즘 하는 것
 
-- C++, CS, 자료구조, 알고리즘 공부 및 코딩 테스트 준비
+- C++, CS 공부 및 코딩 테스트 준비
 - 졸업 프로젝트 및 논문(보고서 작성)
