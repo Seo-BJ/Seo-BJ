@@ -7,7 +7,7 @@
 Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 ## **Education**
 
-**경희대학교 (2019.03 ~ 2026.02)
+경희대학교 (2019.03 ~ 2026.02)
 - 수학과 (본전공)
 - 소프트웨어융합학과 (복수전공)
 ## **Skills**
