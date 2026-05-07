@@ -22,7 +22,7 @@ Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 - **Unity Engine**
 - **DirectX 11, Win API**
 - **AWS GameLift, Cognito, Lambda**
-- 
+  
 ### Mathematics
 
 - **해석학 1, 2 (Analysis), 수치해석 1 (Numerical Analysis), 복소해석학 1 (Complex Analysis)**
